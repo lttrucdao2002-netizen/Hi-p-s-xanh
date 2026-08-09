@@ -1,0 +1,6 @@
+{
+  "name": "Hiệp Sĩ Xanh – Giải Cứu Trái Đất",
+  "description": "Trò chơi giáo dục tương tác phân loại rác dành cho trẻ mầm non 5–6 tuổi với Hiệp sĩ xanh và Trái Đất đáng yêu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
